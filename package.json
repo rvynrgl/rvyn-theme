@@ -1,0 +1,21 @@
+{
+  "name": "rvyn",
+  "displayName": "rvyn",
+  "description": "color theme for me and you.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "rvyn",
+        "uiTheme": "vs-dark",
+        "path": "./themes/rvyn-color-theme.json"
+      }
+    ]
+  }
+}
